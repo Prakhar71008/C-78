@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(red 0%,orange 100%);
+    color:aqua;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+img{
+    height: 300px;
+}
+#family_name{
+    font-size: 30px;
+    font-weight:bold;
+}
